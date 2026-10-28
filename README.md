@@ -39,4 +39,11 @@
 
 ## وضعیت پروژه
 
-در حال انجام — مرحله انتخاب موضوع و معرفی اولیه محصول.
+در حال انجام — مرحله انتخاب موضوع و معرفی اولیه محصول.## وضعیت مستندات پروژه
+
+| ردیف | فاز      | سند                | مسیر فایل                                                    | وضعیت   |
+| ---: | -------- | ------------------ | ------------------------------------------------------------ | ------- |
+|    ۱ | Planning | برگه درخواست مشتری | [01-client-request.md](specification/01-client-request.md)   | ✅ تکمیل |
+|    ۲ | Planning | درخواست سیستم      | [02-system-request.md](specification/02-system-request.md)   | ✅ تکمیل |
+|    ۳ | Planning | تحلیل امکان‌سنجی   | [03-feasibility.md](specification/03-feasibility.md)         | ✅ تکمیل |
+|    ۴ | Planning | منشور پروژه        | [04-project-charter.md](specification/04-project-charter.md) | ✅ تکمیل |
